@@ -1,0 +1,12 @@
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\bin\Debug\net6.0\OnlineCommunityDomain.deps.json
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\bin\Debug\net6.0\OnlineCommunityDomain.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\bin\Debug\net6.0\OnlineCommunityDomain.pdb
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.csproj.AssemblyReference.cache
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.AssemblyInfoInputs.cache
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.AssemblyInfo.cs
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.csproj.CoreCompileInputs.cache
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\refint\OnlineCommunityDomain.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\OnlineCommunityDomain.pdb
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\OnlineCommunityDomain\obj\Debug\net6.0\ref\OnlineCommunityDomain.dll
