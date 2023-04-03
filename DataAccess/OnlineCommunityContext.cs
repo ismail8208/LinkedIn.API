@@ -17,7 +17,7 @@ namespace DataAccess
         public DbSet<Experience> Experiences { get; set; }
         public DbSet<Address> Addresses { get; set; }
         public DbSet<Education> Educations { get; set; }
-        public DbSet<Endorsement> Endores { get; set; }
+        public DbSet<Endorsement> Endorsements { get; set; }
         public OnlineCommunityContext() { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -116,13 +116,13 @@ namespace DataAccess
 
             modelBuilder.Entity<Endorsement>()
                 .HasOne<User>(u => u.User)
-                .WithMany(p => p.Endores)
+                .WithMany(p => p.Endorsements)
                 .HasForeignKey(p => p.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
 
             modelBuilder.Entity<Endorsement>()
                 .HasOne<Skill>(u => u.Skill)
-                .WithMany(s => s.Endores)
+                .WithMany(s => s.Endorsements)
                 .HasForeignKey(u => u.SkillId)
                 .OnDelete(DeleteBehavior.Restrict);
 

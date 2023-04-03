@@ -1,6 +1,6 @@
 ﻿namespace OnlineCommunityDomain
 {
-    public class Endore
+    public class Endorsement
     {
         public int EndoreId { get; set; }
         public int UserId { get; set; }

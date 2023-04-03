@@ -15,7 +15,7 @@
         public List<Skill> Skills { get; set; } = new List<Skill>();
         public List<Project> Projects { get; set; } = new List<Project>();
         public List<Experience> Experiences { get; set; } = new List<Experience>();
-        public List<Endorsement> Endores { get; set; } = new List<Endorsement>();
+        public List<Endorsement> Endorsements { get; set; } = new List<Endorsement>();
         public List<Education> Educations { get; set; } = new List<Education>();
         public List<Post> Posts { get; set; } = new List<Post>();
         public List<Follow> Followers { get; set; } = new List<Follow>();
