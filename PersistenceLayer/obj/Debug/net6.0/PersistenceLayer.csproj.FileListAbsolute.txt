@@ -1,0 +1,17 @@
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\PersistenceLayer.deps.json
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\PersistenceLayer.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\PersistenceLayer.pdb
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\DataAccess.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\OnlineCommunityDomain.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\DataAccess.pdb
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\bin\Debug\net6.0\OnlineCommunityDomain.pdb
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.csproj.AssemblyReference.cache
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.AssemblyInfoInputs.cache
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.AssemblyInfo.cs
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.csproj.CoreCompileInputs.cache
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.csproj.CopyComplete
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\refint\PersistenceLayer.dll
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\PersistenceLayer.pdb
+D:\from zero to hero\.net\my Project\backend\OnlineCommunity\PersistenceLayer\obj\Debug\net6.0\ref\PersistenceLayer.dll
