@@ -17,7 +17,7 @@ namespace DataAccess
         public DbSet<Experience> Experiences { get; set; }
         public DbSet<Address> Addresses { get; set; }
         public DbSet<Education> Educations { get; set; }
-        public DbSet<Endore> Endores { get; set; }
+        public DbSet<Endorsement> Endores { get; set; }
         public OnlineCommunityContext() { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -114,13 +114,13 @@ namespace DataAccess
                 .HasForeignKey(p => p.ProjectId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            modelBuilder.Entity<Endore>()
+            modelBuilder.Entity<Endorsement>()
                 .HasOne<User>(u => u.User)
                 .WithMany(p => p.Endores)
                 .HasForeignKey(p => p.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            modelBuilder.Entity<Endore>()
+            modelBuilder.Entity<Endorsement>()
                 .HasOne<Skill>(u => u.Skill)
                 .WithMany(s => s.Endores)
                 .HasForeignKey(u => u.SkillId)
